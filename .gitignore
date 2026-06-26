@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Docker build cache / local test artifacts
+*.tar
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / secrets (never commit these)
+.env
+*.pem
+
+# Local development notes
+TODOS.md
