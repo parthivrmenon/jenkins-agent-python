@@ -1,6 +1,8 @@
 # Jenkins Agent (Python)
 
-A Python3 Jenkins Agent
+A Python3 Jenkins Agent.
+
+Tags are maintained for all actively supported Python versions per https://devguide.python.org/versions/
 
 ## Publish a NEW Python version
 
